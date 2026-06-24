@@ -1,0 +1,3 @@
+[submodule "mdbook-katex"]
+	path = mdbook-katex
+	url = https://github.com/lzanini/mdbook-katex
